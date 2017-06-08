@@ -1,2 +1,2 @@
 # YAESW
-Yet Another Ethereum Simple Wallet
+Yet Another Simple Ethereum Wallet
