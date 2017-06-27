@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  font-family: 'Quicksand', sans-serif;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+nav {
+    background: white;
+    color: black;
+}
+.page-footer {
+    background: white;
+    color: black;
+}
+
+nav .brand-logo {
+    color: black;
+}
+nav a {
+    color: black;
+}
+.brand-logo{
+  margin-top: 10px;
+}
