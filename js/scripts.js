@@ -40,3 +40,6 @@ $('input.autocomplete').autocomplete({
   minLength: 1, // The minimum length of the input for the autocomplete to start. Default: 1.
 });
 }
+function changeTitle(title){
+ document.getElementById('title').innerHTML = title;
+}
