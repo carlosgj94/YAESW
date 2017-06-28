@@ -33,3 +33,6 @@ nav a {
 .brand-logo{
   margin-top: 10px;
 }
+.fixed-action-btn {
+    bottom: 70px;
+}
