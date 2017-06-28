@@ -19,6 +19,10 @@ nav {
     background: white;
     color: black;
 }
+nav ul a {
+    color: black;
+}
+
 .page-footer {
     background: white;
     color: black;
