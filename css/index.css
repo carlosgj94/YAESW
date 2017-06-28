@@ -40,3 +40,9 @@ nav a {
 .fixed-action-btn {
     bottom: 70px;
 }
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}

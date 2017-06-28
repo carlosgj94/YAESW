@@ -17,5 +17,10 @@
           $('ul.tabs').tabs('select_tab', 'share-currency');
         });
 
+        var ismobile=navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i);
+        if(!ismobile){
+          document.getElementById('body').innerHTML = "Please use a phone. Cabron.";
+        }
+
   }); // end of document ready
 })(jQuery); // end of jQuery name space
