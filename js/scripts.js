@@ -19,7 +19,7 @@
 
         var ismobile=navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i);
         if(!ismobile){
-          //document.getElementById('body').innerHTML = "Please use a phone. Cabron.";
+          document.getElementById('body').innerHTML = "Please use a phone. Cabron.";
         }
 
   }); // end of document ready
